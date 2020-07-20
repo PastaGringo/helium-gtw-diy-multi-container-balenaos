@@ -4,7 +4,6 @@ services:
     restart: always
     image: pastagringo/loragtwpktfwd
     privileged: true
-    #build: ./lora_gtw_and_pkt_fwd
   helium_miner:
     restart: always
     image: quay.io/team-helium/miner:miner-arm64_2020.07.16.0_GA
