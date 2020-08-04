@@ -10,6 +10,8 @@ Deploy a DIY Helium LoRa gateway running the miner inside the board. We are usin
 
 ## Getting started
 
+### LoRa has been configured for EU region !
+
 ### Hardware
 
 * Raspberry Pi 4 or [balenaFin](https://www.balena.io/fin/)
